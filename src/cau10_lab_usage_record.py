@@ -14,5 +14,5 @@ print(f"Thoi luong: {so_phut} phut")
 print(f"Dien nang: {cong_suat * so_phut / 60 / 1000:.3f} kWh")
 print(f"Chi phi: {(cong_suat * so_phut / 60 / 1000) * don_gia:.2f} VND")
 print(f"Tren 60 phut: {so_phut > 60}")
-
 print(f"Ghi nhan luc: {thoi_diem_text}")
+print("phien ban 2")
